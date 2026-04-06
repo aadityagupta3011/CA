@@ -19,8 +19,6 @@ using namespace std;
  for(int i=0;i<n;i++){
   cout<<arr[i]<<" ";
  }
-
- 
 }
 
 int main(){
@@ -43,3 +41,7 @@ int main(){
  quick(arr,n);
  
 }
+
+
+
+
